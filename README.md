@@ -20,3 +20,6 @@ All steps are built-in; you don't need to install anything.
 
 ---
 See the rest on the about page by **[Clicking here](https://sites.google.com/view/scrooch-2/about)**.
+
+⚠️ Notice: The SWF files that Scrooch makes use the Scratch 2.0 editor, which was developed by the Lifelong Kindergarten Group at the MIT Media Lab.
+Scratch and ScratchCat are trademarks of the Scratch Team. This is an unofficial, fan-made project and is not affiliated with or endorsed by Scratch or MIT.
