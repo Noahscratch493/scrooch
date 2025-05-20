@@ -41,7 +41,7 @@ All steps happen on the Scrooch site – no extra software needed.
 ## 📁 This Repository
 
 This GitHub repo includes:
-- The **Scrooch SB2-to-SWF Converter** (`.swf` file), based on the open-source converter by **AsentientBot**  
+- The **SB2-to-SWF Converter** (`.swf` file), which **is the same open-source converter by AsentientBot**  
 - [`LICENSE.md`](./LICENSE.md) – Licensing terms and usage rules
 
 You may use the converter, but **only if you credit AsentientBot** for the original implementation.
@@ -55,9 +55,10 @@ SWFs made using Scrooch must credit the project and its creator: **Noahscratch49
 Example credit:
 > 🔧 Built with Scrooch by Noahscratch493 – Code. Convert. Play.
 
-The SB2 to SWF converter is based on the open-source work of **AsentientBot** and must be credited accordingly.
+The SB2 to SWF converter used in Scrooch **is the same open-source converter created by AsentientBot** and must be credited accordingly.
 
 See [`LICENSE.md`](./LICENSE.md) for the full license and third-party attributions.
+
 
 ---
 
