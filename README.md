@@ -1,25 +1,74 @@
-# 🛠️ Scrooch
-
-**Scrooch** is a web tool that lets you make **Scratch 2 mods** in minutes.  
-It’s a three-step workflow: edit your project, convert it, and play it—all without Flash.
-
----
-
-## 🚀 Try it out  
-🔗 **[Visit Scrooch](https://sites.google.com/view/scrooch-2/home)**  
+# 🔧 Scrooch  
+**Code. Convert. Play.**  
+Create your own Scratch 2.0 mod entirely in your browser — no downloads needed.
 
 ---
 
-## 🔧 What You Can Do
+## 🌐 Homepage  
+👉 [Scrooch on Google Sites](https://sites.google.com/view/scrooch-2/)
 
-- 🧱 **Code** — Use the embedded Scratch 2.0 editor (custom default project)
-- 🔁 **Convert** — Turn your `.sb2` file into a `.swf` mod
-- ▶️ **Play** — Run it instantly using the Ruffle Flash emulator
+Scrooch is a web-based tool that lets you:
 
-All steps are built-in; you don't need to install anything.
+1. **🧩 Build a Scratch 2.0 Mod**  
+   Edit the default project using the embedded Scratch 2.0 editor.
+
+2. **🔁 Convert Your SB2 to SWF**  
+   Turn your `.sb2` into a `.swf` file using the integrated converter.
+
+3. **🚀 Run It in Ruffle**  
+   Play your mod anywhere using modern Flash emulation.
+
+All steps happen on the Scrooch site – no extra software needed.
 
 ---
-See the rest on the about page by **[Clicking here](https://sites.google.com/view/scrooch-2/about)**.
 
-⚠️ Notice: The SWF files that Scrooch makes use the Scratch 2.0 editor, which was developed by the Lifelong Kindergarten Group at the MIT Media Lab.
-Scratch and ScratchCat are trademarks of the Scratch Team. This is an unofficial, fan-made project and is not affiliated with or endorsed by Scratch or MIT.
+## 🧪 How It Works
+
+1. Click the **"Create"** dropdown in the Scrooch navbar and choose **"Code"** to open the embedded Scratch 2.0 editor with the default mod project.  
+2. Make your changes or build your mod using the editor. **When finished, be sure to save your project as an `.sb2` file — if you don’t save it, you won’t be able to convert it!**  
+3. Click **“Next”** to move to the **Convert** page.  
+4. On the **Convert** page:  
+   - Upload your saved `.sb2` file.  
+   - **Follow the instructions shown on the page**, such as selecting **"Show as editor"** or any other required options.  
+   - Generate your `.swf` file using the open-source converter created by **AsentientBot**.  
+5. Click **“Next”** again to go to the **Play** page.  
+6. On the Play page, open your `.swf` using [ruffle.rs/demo](https://ruffle.rs/demo) or any site that supports Ruffle.  
+
+✅ Your Scratch 2.0 mod is now ready to run — no Flash Player required!
+
+---
+
+## 📁 This Repository
+
+This GitHub repo includes:
+- The **Scrooch SB2-to-SWF Converter** (`.swf` file), based on the open-source converter by **AsentientBot**  
+- [`LICENSE.md`](./LICENSE.md) – Licensing terms and usage rules
+
+You can use this repo to host or reference the converter outside of the main site if needed.
+
+---
+
+## 📄 License
+
+SWFs made using Scrooch must credit the project and its creator: **Noahscratch493**.
+
+Example credit:
+> 🔧 Built with Scrooch by Noahscratch493 – Code. Convert. Play.
+
+See [`LICENSE.md`](./LICENSE.md) for the full license and third-party attributions.
+
+---
+
+## ⚠️ Disclaimer
+
+Scrooch is **not affiliated with or endorsed by the Scratch Team or MIT**.  
+Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab.
+
+---
+
+## 🔗 Check Out More
+
+Looking for more tools, mods, or cool web projects?  
+👉 Visit: [www.fungamesz.com/websites/](https://www.fungamesz.com/websites/)
+
+---
